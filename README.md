@@ -18,6 +18,35 @@ Context API – State management for the cart
 localStorage – Cart persistence
 Fetch API – Fetching product data
 
+To run the application:
+
+ Clone the Repository
+Open a terminal and run:
+
+
+git clone https://github.com/your-username/E-commerce-UI.git
+(Replace your-username with your actual GitHub username.)
+
+2️⃣ Navigate to the Project Folder
+cd E-commerce-UI
+
+3️⃣ Install Dependencies
+Make sure you have Node.js installed, then run:
+npm install
+
+4️⃣ Start the Development Server
+Run the following command to start the React app:
+npm start
+This will launch the application at http://localhost:3000/ in your default browser.
+
+🔧 Build for Production
+To create an optimized production build, run:
+
+npm run build
+This generates the minified files in the build/ folder.
+
+
+
 List of components and their functionalities:
 1.ProductList.js:
 Objective:
